@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest2.1.cpp
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,1\lab 2.1\lab 2.1\Number.h(16,42): warning C4244: return: преобразование "const double" в "unsigned int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,1\lab 2.1\lab 2.1\Number.cpp(60,15): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,1\lab 2.1\lab 2.1\Number.cpp(91): warning C4172: возвращение адреса локальной или временной переменной : a
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,1\lab 2.1\lab 2.1\Number.cpp(85): warning C4172: возвращение адреса локальной или временной переменной : a
+     Создается библиотека C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,1\lab 2.1\Debug\UnitTest2.1.lib и объект C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,1\lab 2.1\Debug\UnitTest2.1.exp
+  UnitTest2.1.vcxproj -> C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,1\lab 2.1\Debug\UnitTest2.1.dll
